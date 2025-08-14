@@ -5,6 +5,10 @@
     }
   ],
   "settings": {
+    "editor.fontSize": 15,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
     "php.executablePath": "/usr/bin/php",
     "git.autoRepositoryDetection": true,
     "php.validate.executablePath": "/usr/bin/php",
@@ -27,9 +31,7 @@
       "redis",
       "wordpress"
     ],
-    "intelephense.environment.includePaths": [
-      "./modScore.Code/vendor"
-    ],
+    "intelephense.environment.includePaths": ["./modScore.Code/vendor"],
     "files.exclude": {
       "**/node_modules": true,
       "**/vendor": false,
@@ -54,10 +56,7 @@
     "editor.formatOnSave": true,
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
-    "editor.rulers": [
-      80,
-      120
-    ],
+    "editor.rulers": [80, 120],
     "editor.codeActionsOnSave": {
       "source.fixAll": "explicit",
       "source.organizeImports": "explicit"
