@@ -1,0 +1,76 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "php.executablePath": "/usr/bin/php",
+    "git.autoRepositoryDetection": true,
+    "php.validate.executablePath": "/usr/bin/php",
+    "php.suggest.basic": false,
+    "intelephense.environment.phpVersion": "8.4.0",
+    "intelephense.stubs": [
+      "standard",
+      "Core",
+      "superglobals",
+      "bcmath",
+      "curl",
+      "date",
+      "dom",
+      "fileinfo",
+      "gd",
+      "json",
+      "mbstring",
+      "mysql",
+      "mysqli",
+      "redis",
+      "wordpress"
+    ],
+    "intelephense.environment.includePaths": [
+      "./modScore.Code/vendor"
+    ],
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/vendor": false,
+      "**/.git": true,
+      "**/cache": true,
+      "**/uploads": true,
+      "**/dist": true,
+      "**/build": true,
+      "**/*.log": true
+    },
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/dist": true,
+      "**/build": true,
+      "**/cache": true
+    },
+    "files.watcherExclude": {
+      "**/node_modules/**": true,
+      "**/dist/**": true,
+      "**/cache/**": true
+    },
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.rulers": [
+      80,
+      120
+    ],
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit"
+    },
+    "files.associations": {
+      "*.php": "php",
+      "*.inc": "php",
+      "*.module": "php",
+      "*.theme": "php",
+      "*.scss": "scss",
+      "*.js": "javascript",
+      "*.ts": "typescript",
+      "*.tsx": "typescriptreact"
+    }
+  }
+}
