@@ -1,39 +1,70 @@
-=== _s ===
+It is a free HTML CSS template by https://templatesjungle.com/
+You can use this template as a starter template and start building as you require.
 
-Contributors: automattic
-Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+The code is consistent and can be easily maintained as we have followed a good coding standard. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
 
-Requires at least: 4.5
-Tested up to: 5.4
-Requires PHP: 5.6
-Stable tag: 1.0.0
-License: GNU General Public License v2 or later
-License URI: LICENSE
+PRO Version: 
+https://templatesjungle.gumroad.com/l/jessica-portfolio-html-template
 
-A starter theme called _s, or underscores.
+FREE FOR BOTH PERSONAL AND COMMERCIAL USE
 
-== Description ==
+This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
 
-Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
+However, you can remove the credit link by paying for No Attribution version of the template.
 
-== Installation ==
 
-1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
-3. Click Activate to use your new theme right away.
+RIGHTS
 
-== Frequently Asked Questions ==
+You are allowed to use it in your personal projects and commercial projects.
 
-= Does this theme support any plugins? =
+You can modify and sell it to your clients.
 
-_s includes support for WooCommerce and for Infinite Scroll in Jetpack.
 
-== Changelog ==
+PROHIBITIONS
 
-= 1.0 - May 12 2015 =
-* Initial release
+You cannot remove the credit link which links back to templatesjungle.com.
 
-== Credits ==
+You are not permitted to resell or redistribute (paid or free) as it is. 
 
-* Based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
-* normalize.css https://necolas.github.io/normalize.css/, (C) 2012-2018 Nicolas Gallagher and Jonathan Neal, [MIT](https://opensource.org/licenses/MIT)
+You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
+
+If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
+
+You cannot host the download file in your website.
+
+
+SUPPORT
+
+You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
+
+Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
+
+
+CREDITS & REFERENCES
+
+https://getbootstrap.com/
+
+Stock Photos
+https://unsplash.com/
+https://www.freepik.com/
+https://www.pexels.com/
+
+Fonts
+Google fonts
+https://fonts.google.com/
+
+Icons
+https://icon-sets.iconify.design/
+
+Bootstrap Framework
+https://getbootstrap.com/
+
+JQuery Plugins
+
+Swiper Slider - https://swiperjs.com/
+Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
+Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
+
+Thanks for downloading from TemplatesJungle.com !
+
+
