@@ -4,7 +4,26 @@
       "path": "."
     }
   ],
+    "extensions": {
+    "recommendations": [
+      "bmewburn.vscode-intelephense-client",   // PHP Intelephense
+      "tukusejssirs.wordpress-snippet",       // WordPress Snippets
+      // "xdebug.php-debug",                     // PHP Debug
+      "esbenp.prettier-vscode",               // Prettier
+      // "dbaeumer.vscode-eslint",               // ESLint
+      "stylelint.vscode-stylelint",           // Stylelint
+      // "bradlc.vscode-tailwindcss",            // Tailwind CSS IntelliSense
+      // "ms-azuretools.vscode-docker",          // Docker
+      // "mtxr.sqltools",                        // SQLTools
+      // "humao.rest-client",                    // REST Client
+      // "eamodio.gitlens"                       // GitLens
+    ],
+    "unwantedRecommendations": [
+      // you can block noisy ones if needed
+    ]
+  },
   "settings": {
+    "editor.stickyScroll.enabled": false,
     "editor.fontSize": 15,
     "editor.fontLigatures": true,
     "editor.minimap.enabled": false,
