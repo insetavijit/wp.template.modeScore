@@ -2,16 +2,19 @@
   "folders": [
     {
       "path": "."
+    },
+    {
+      "path": ".../../Www"
     }
   ],
-    "extensions": {
+  "extensions": {
     "recommendations": [
-      "bmewburn.vscode-intelephense-client",   // PHP Intelephense
-      "tukusejssirs.wordpress-snippet",       // WordPress Snippets
+      "bmewburn.vscode-intelephense-client", // PHP Intelephense
+      "tukusejssirs.wordpress-snippet", // WordPress Snippets
       // "xdebug.php-debug",                     // PHP Debug
-      "esbenp.prettier-vscode",               // Prettier
+      "esbenp.prettier-vscode", // Prettier
       // "dbaeumer.vscode-eslint",               // ESLint
-      "stylelint.vscode-stylelint",           // Stylelint
+      "stylelint.vscode-stylelint", // Stylelint
       // "bradlc.vscode-tailwindcss",            // Tailwind CSS IntelliSense
       // "ms-azuretools.vscode-docker",          // Docker
       // "mtxr.sqltools",                        // SQLTools
@@ -50,7 +53,9 @@
       "redis",
       "wordpress"
     ],
-    "intelephense.environment.includePaths": ["./modScore.Code/vendor"],
+    "intelephense.environment.includePaths": [
+      "./modScore.Code/vendor"
+    ],
     "files.exclude": {
       "**/node_modules": true,
       "**/vendor": false,
@@ -75,7 +80,10 @@
     "editor.formatOnSave": true,
     "editor.tabSize": 2,
     "editor.insertSpaces": true,
-    "editor.rulers": [80, 120],
+    "editor.rulers": [
+      80,
+      120
+    ],
     "editor.codeActionsOnSave": {
       "source.fixAll": "explicit",
       "source.organizeImports": "explicit"
