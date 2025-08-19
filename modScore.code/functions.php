@@ -4,11 +4,11 @@
  * _s functions and definitions
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
- *
+ * 
+ * @see ./index.php
+ * 
  * @package _s
  */
-
-
 
 
 
