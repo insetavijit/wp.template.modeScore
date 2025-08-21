@@ -8,10 +8,8 @@ echo '<body class="' . implode(' ', get_body_class()) . '">';
 
 get_template_part("./template.parts/contents.index.p/links", "social");
 get_template_part("./template.parts/contents.index.p/block", "header");
+get_template_part("./template.parts/contents.index.p/banner", "block");
 
-
-
-// get_template_part("./template.parts/theme.contents/banner", "block");
 
 // get_template_part("./template.parts/theme.contents/skillset", "block");
 
