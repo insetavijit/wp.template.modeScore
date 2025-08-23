@@ -11,7 +11,7 @@ get_template_part("./template.parts/contents.index.p/block", "header");
 get_template_part("./template.parts/contents.index.p/banner", "block");
 
 
-// get_template_part("./template.parts/theme.contents/skillset", "block");
+get_template_part("./template.parts/contents.index.p/skillset", "block");
 
 // get_template_part("./template.parts/theme.contents/bio", "block");
 
